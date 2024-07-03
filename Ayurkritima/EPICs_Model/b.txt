@@ -1,0 +1,169 @@
+{
+  "diseases": [
+    {
+      "name": "Fungal infection",
+      "symptoms": ["Itching", "Skin rash", "Nodular lesions"]
+    },
+    {
+      "name": "Allergy",
+      "symptoms": ["Skin rash", "Itching", "Nasal congestion", "Sneezing"]
+    },
+    {
+      "name": "GERD",
+      "symptoms": ["Heartburn", "Nausea", "Chest pain", "Difficulty swallowing"]
+    },
+    {
+      "name": "Chronic cholestasis",
+      "symptoms": ["Fatigue", "Itching", "Dark urine", "Jaundice"]
+    },
+    {
+      "name": "Drug Reaction",
+      "symptoms": ["Skin rash", "Fever", "Itching", "Joint pain"]
+    },
+    {
+      "name": "Peptic ulcer disease",
+      "symptoms": ["Abdominal pain", "Heartburn", "Nausea", "Vomiting"]
+    },
+    {
+      "name": "AIDS",
+      "symptoms": ["Fever", "Weight loss", "Fatigue", "Swollen lymph nodes"]
+    },
+    {
+      "name": "Diabetes",
+      "symptoms": ["Increased thirst", "Frequent urination", "Fatigue", "Blurred vision"]
+    },
+    {
+      "name": "Gastroenteritis",
+      "symptoms": ["Abdominal pain", "Diarrhea", "Nausea", "Vomiting"]
+    },
+    {
+      "name": "Bronchial Asthma",
+      "symptoms": ["Shortness of breath", "Wheezing", "Coughing", "Chest tightness"]
+    },
+    {
+      "name": "Hypertension",
+      "symptoms": ["Headache", "Fatigue", "Chest pain", "Shortness of breath"]
+    },
+    {
+      "name": "Migraine",
+      "symptoms": ["Severe headache", "Nausea", "Vomiting", "Sensitivity to light"]
+    },
+    {
+      "name": "Cervical spondylosis",
+      "symptoms": ["Neck pain", "Stiffness", "Numbness or weakness in limbs"]
+    },
+    {
+      "name": "Paralysis (brain hemorrhage)",
+      "symptoms": ["Sudden numbness", "Weakness", "Confusion", "Difficulty speaking"]
+    },
+    {
+      "name": "Jaundice",
+      "symptoms": ["Yellowing of skin and eyes", "Abdominal pain", "Dark urine"]
+    },
+    {
+      "name": "Malaria",
+      "symptoms": ["Fever", "Chills", "Sweating", "Headache", "Nausea", "Vomiting"]
+    },
+    {
+      "name": "Chicken pox",
+      "symptoms": ["Rash", "Fever", "Fatigue", "Headache", "Loss of appetite"]
+    },
+    {
+      "name": "Dengue",
+      "symptoms": ["High fever", "Severe headache", "Pain behind eyes", "Joint and muscle pain", "Nausea", "Vomiting", "Skin rash"]
+    },
+    {
+      "name": "Typhoid",
+      "symptoms": ["Fever", "Headache", "Weakness", "Abdominal pain", "Constipation", "Diarrhea"]
+    },
+    {
+      "name": "Hepatitis A",
+      "symptoms": ["Fever", "Fatigue", "Nausea", "Abdominal pain", "Jaundice"]
+    },
+    {
+      "name": "Hepatitis B",
+      "symptoms": ["Fatigue", "Fever", "Abdominal pain", "Dark urine", "Jaundice"]
+    },
+    {
+      "name": "Hepatitis C",
+      "symptoms": ["Fatigue", "Fever", "Nausea", "Abdominal pain", "Dark urine", "Jaundice"]
+    },
+    {
+      "name": "Hepatitis D",
+      "symptoms": ["Fatigue", "Fever", "Nausea", "Abdominal pain", "Dark urine", "Jaundice"]
+    },
+    {
+      "name": "Hepatitis E",
+      "symptoms": ["Fever", "Fatigue", "Nausea", "Abdominal pain", "Dark urine", "Jaundice"]
+    },
+    {
+      "name": "Alcoholic hepatitis",
+      "symptoms": ["Abdominal pain", "Yellowing of skin and eyes", "Fatigue", "Nausea", "Vomiting"]
+    },
+    {
+      "name": "Tuberculosis",
+      "symptoms": ["Cough", "Fever", "Fatigue", "Weight loss", "Chest pain", "Coughing up blood"]
+    },
+    {
+      "name": "Common Cold",
+      "symptoms": ["Runny or stuffy nose", "Sore throat", "Cough", "Sneezing", "Fatigue"]
+    },
+    {
+      "name": "Pneumonia",
+      "symptoms": ["Cough", "Fever", "Shortness of breath", "Chest pain", "Fatigue"]
+    },
+    {
+      "name": "Dimorphic hemorrhoids(piles)",
+      "symptoms": ["Painless bleeding during bowel movements", "Anal itching", "Pain or discomfort"]
+    },
+    {
+      "name": "Heart attack",
+      "symptoms": ["Chest pain or discomfort", "Upper body pain or discomfort", "Shortness of breath", "Nausea", "Cold sweats"]
+    },
+    {
+      "name": "Varicose veins",
+      "symptoms": ["Veins that are dark purple or blue in color", "Veins that appear twisted and bulging", "Aching pain", "Heavy feeling in legs"]
+    },
+    {
+      "name": "Hypothyroidism",
+      "symptoms": ["Fatigue", "Weakness", "Weight gain", "Dry skin", "Hair loss"]
+    },
+    {
+      "name": "Hyperthyroidism",
+      "symptoms": ["Rapid heartbeat", "Increased appetite", "Weight loss", "Nervousness", "Tremor"]
+    },
+    {
+      "name": "Hypoglycemia",
+      "symptoms": ["Shakiness", "Nervousness", "Sweating", "Hunger", "Irritability"]
+    },
+    {
+      "name": "Osteoarthritis",
+      "symptoms": ["Joint pain", "Stiffness", "Swelling", "Decreased range of motion"]
+    },
+    {
+      "name": "Arthritis",
+      "symptoms": ["Joint pain", "Stiffness", "Swelling", "Redness", "Decreased range of motion"]
+    },
+    {
+      "name": "Positional Vertigo",
+      "symptoms": ["Dizziness", "A sensation of spinning", "Nausea", "Vomiting", "Abnormal eye movements"]
+    },
+    {
+      "name": "Acne",
+      "symptoms": ["Pimples", "Blackheads", "Whiteheads", "Redness", "Inflammation"]
+    },
+    {
+      "name": "Urinary tract infection",
+      "symptoms": ["Frequent urination", "Burning sensation during urination", "Cloudy or strong-smelling urine", "Pelvic pain in women", "Rectal pain in men"]
+    },
+    {
+      "name": "Psoriasis",
+      "symptoms": ["Red patches of skin covered with silvery scales", "Dry, cracked skin that may bleed", "Itching or burning sensation", "Thickened, pitted or ridged nails"]
+    },
+    {
+      "name": "Impetigo",
+      "symptoms": ["Red sores that quickly rupture", "Oozing, honey-colored crusts", "Itching", "Swollen lymph nodes"]
+    }
+  ]
+}
+

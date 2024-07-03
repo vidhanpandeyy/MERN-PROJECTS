@@ -1,0 +1,167 @@
+{
+    "Paroxysmal Positional Vertigo": {
+      "Ayurvedic Remedies": ["Shirodhara", "Nasya therapy", "Ashwagandha", "Brahmi"],
+      "Lifestyle Recommendations": ["Practice gentle yoga asanas", "Avoid sudden head movements", "Maintain a regular sleep schedule"]
+    },
+    "Acne": {
+      "Ayurvedic Remedies": ["Neem", "Turmeric", "Aloe Vera", "Triphala"],
+      "Lifestyle Recommendations": ["Follow a balanced diet", "Stay hydrated", "Keep skin clean with herbal cleansers"]
+    },
+    "AIDS": {
+      "Ayurvedic Remedies": ["Tinospora cordifolia (Guduchi)", "Ashwagandha", "Triphala", "Amalaki"],
+      "Lifestyle Recommendations": ["Practice stress-relieving techniques like yoga and meditation", "Maintain a healthy immune system"]
+    },
+    "Alcoholic Hepatitis": {
+      "Ayurvedic Remedies": ["Kutki", "Punarnava", "Bhumyamalaki", "Triphala"],
+      "Lifestyle Recommendations": ["Avoid alcohol consumption", "Follow a liver-friendly diet rich in fruits and vegetables", "Stay hydrated"]
+    },
+    "Allergy": {
+      "Ayurvedic Remedies": ["Turmeric", "Neem", "Tulsi", "Triphala"],
+      "Lifestyle Recommendations": ["Avoid triggers that worsen allergies", "Practice pranayama for respiratory health"]
+    },
+    "Arthritis": {
+      "Ayurvedic Remedies": ["Guggulu", "Ashwagandha", "Turmeric", "Triphala"],
+      "Lifestyle Recommendations": ["Practice gentle exercise like yoga", "Maintain a healthy weight", "Follow an anti-inflammatory diet"]
+    },
+    "Bronchial Asthma": {
+      "Ayurvedic Remedies": ["Vasa", "Trikatu", "Sitopaladi Churna", "Tulsi"],
+      "Lifestyle Recommendations": ["Avoid exposure to allergens", "Practice breathing exercises like pranayama", "Maintain indoor air quality"]
+    },
+    "Cervical Spondylosis": {
+      "Ayurvedic Remedies": ["Ashwagandha", "Guggulu", "Bala", "Maharasnadi Kwath"],
+      "Lifestyle Recommendations": ["Practice neck exercises", "Maintain correct posture", "Avoid prolonged sitting or standing"]
+    },
+    "Chickenpox": {
+      "Ayurvedic Remedies": ["Neem", "Tulsi", "Sandalwood", "Turmeric"],
+      "Lifestyle Recommendations": ["Keep skin clean and dry", "Avoid scratching the blisters", "Take rest"]
+    },
+    "Chronic Cholestasis": {
+      "Ayurvedic Remedies": ["Kutki", "Punarnava", "Triphala", "Bhumyamalaki"],
+      "Lifestyle Recommendations": ["Follow a liver-friendly diet", "Stay hydrated", "Avoid alcohol and fatty foods"]
+    },
+    "Common Cold": {
+      "Ayurvedic Remedies": ["Tulsi", "Ginger", "Turmeric", "Triphala"],
+      "Lifestyle Recommendations": ["Stay hydrated", "Get plenty of rest", "Keep warm"]
+    },
+    "Dengue": {
+      "Ayurvedic Remedies": ["Papaya Leaf Extract", "Neem", "Tulsi", "Giloy"],
+      "Lifestyle Recommendations": ["Stay hydrated", "Get plenty of rest", "Keep surroundings clean to prevent mosquito breeding"]
+    },
+    "Diabetes": {
+      "Ayurvedic Remedies": ["Gurmar", "Bitter Melon (Karela)", "Turmeric", "Triphala"],
+      "Lifestyle Recommendations": ["Follow a balanced diet low in sugar and carbohydrates", "Exercise regularly", "Manage stress levels"]
+    },
+    "Dimorphic Hemorrhoids (Piles)": {
+      "Ayurvedic Remedies": ["Triphala", "Haritaki", "Neem", "Guggulu"],
+      "Lifestyle Recommendations": ["Avoid straining during bowel movements", "Maintain regular bowel habits", "Stay hydrated"]
+    },
+    "Drug Reaction": {
+      "Ayurvedic Remedies": ["Neem", "Manjistha", "Trikatu", "Triphala"],
+      "Lifestyle Recommendations": ["Avoid triggers", "Consult with an Ayurvedic practitioner for personalized treatment"]
+    },
+    "Fungal Infection": {
+      "Ayurvedic Remedies": ["Neem", "Turmeric", "Triphala", "Tulsi"],
+      "Lifestyle Recommendations": ["Keep skin clean and dry", "Avoid sharing personal items", "Wear loose-fitting clothing"]
+    },
+    "Gastroenteritis": {
+      "Ayurvedic Remedies": ["Ginger", "Coriander", "Cumin", "Triphala"],
+      "Lifestyle Recommendations": ["Stay hydrated", "Follow a bland diet", "Rest the digestive system"]
+    },
+    "GERD": {
+      "Ayurvedic Remedies": ["Aloe Vera", "Licorice (Yashtimadhu)", "Triphala", "Bhringraj"],
+      "Lifestyle Recommendations": ["Avoid spicy and acidic foods", "Eat smaller meals more frequently", "Maintain a healthy weight"]
+    },
+    "Heart Attack": {
+      "Ayurvedic Remedies": ["Arjuna", "Garlic", "Hawthorn", "Guggulu"],
+      "Lifestyle Recommendations": ["Follow a heart-healthy diet", "Exercise regularly", "Manage stress levels"]
+    },
+    "Hepatitis A": {
+      "Ayurvedic Remedies": ["Kutki", "Punarnava", "Bhumyamalaki", "Triphala"],
+      "Lifestyle Recommendations": ["Get plenty of rest", "Follow a liver-friendly diet", "Stay hydrated"]
+    },
+    "Hepatitis B": {
+      "Ayurvedic Remedies": ["Kutki", "Bhumyamalaki", "Punarnava", "Triphala"],
+      "Lifestyle Recommendations": ["Get vaccinated", "Avoid alcohol consumption", "Follow a liver-friendly diet"]
+    },
+    "Hepatitis C": {
+      "Ayurvedic Remedies": ["Kutki", "Bhumyamalaki", "Punarnava", "Triphala"],
+      "Lifestyle Recommendations": ["Get plenty of rest", "Follow a liver-friendly diet", "Avoid alcohol consumption"]
+    },
+    "Hepatitis D": {
+      "Ayurvedic Remedies": ["Kutki", "Bhumyamalaki", "Punarnava", "Triphala"],
+      "Lifestyle Recommendations": ["Get vaccinated for Hepatitis B", "Avoid alcohol consumption", "Follow a liver-friendly diet"]
+    },
+    "Hepatitis E": {
+      "Ayurvedic Remedies": ["Kutki", "Bhumyamalaki", "Punarnava", "Triphala"],
+      "Lifestyle Recommendations": ["Get plenty of rest", "Follow a liver-friendly diet", "Avoid alcohol consumption"]
+    },
+    "Hypertension": {
+      "Ayurvedic Remedies": ["Arjuna", "Brahmi", "Sarpagandha", "Ashwagandha"],
+      "Lifestyle Recommendations": ["Follow a low-sodium diet", "Exercise regularly", "Practice stress management techniques"]
+    },
+    "Hyperthyroidism": {
+      "Ayurvedic Remedies": ["Guggulu", "Brahmi", "Ashwagandha", "Triphala"],
+      "Lifestyle Recommendations": ["Follow a balanced diet", "Practice yoga and meditation for stress relief", "Get regular exercise"]
+    },
+    "Hypoglycemia": {
+      "Ayurvedic Remedies": ["Shatavari", "Ashwagandha", "Brahmi", "Triphala"],
+      "Lifestyle Recommendations": ["Eat small, frequent meals", "Include complex carbohydrates in the diet", "Avoid excessive sugar intake"]
+    },
+    "Hypothyroidism": {
+      "Ayurvedic Remedies": ["Guggulu", "Ashwagandha", "Triphala", "Brahmi"],
+      "Lifestyle Recommendations": ["Include iodine-rich foods like seaweed in the diet", "Get regular exercise", "Manage stress levels"]
+    },
+    "Impetigo": {
+      "Ayurvedic Remedies": ["Neem", "Turmeric", "Triphala", "Aloe Vera"],
+      "Lifestyle Recommendations": ["Keep the affected area clean", "Avoid scratching the blisters", "Practice good hygiene"]
+    },
+    "Jaundice": {
+      "Ayurvedic Remedies": ["Kutki", "Punarnava", "Bhumyamalaki", "Triphala"],
+      "Lifestyle Recommendations": ["Follow a liver-friendly diet", "Stay hydrated", "Get plenty of rest"]
+    },
+    "Malaria": {
+      "Ayurvedic Remedies": ["Neem", "Tulsi", "Giloy", "Guduchi"],
+      "Lifestyle Recommendations": ["Use mosquito nets", "Keep surroundings clean to prevent mosquito breeding", "Stay hydrated"]
+    },
+    "Migraine": {
+      "Ayurvedic Remedies": ["Ginger", "Brahmi", "Shatavari", "Triphala"],
+      "Lifestyle Recommendations": ["Identify and avoid triggers", "Practice relaxation techniques", "Maintain regular sleep patterns"]
+    },
+    "Osteoarthritis": {
+      "Ayurvedic Remedies": ["Guggulu", "Boswellia", "Turmeric", "Triphala"],
+      "Lifestyle Recommendations": ["Maintain a healthy weight", "Engage in low-impact exercises", "Follow an anti-inflammatory diet"]
+    },
+    "Paralysis (Brain Hemorrhage)": {
+      "Ayurvedic Remedies": ["Ashwagandha", "Brahmi", "Guggulu", "Mahanarayan Oil"],
+      "Lifestyle Recommendations": ["Physical therapy", "Regular gentle exercise", "Avoid prolonged bed rest"]
+    },
+    "Peptic Ulcer Disease": {
+      "Ayurvedic Remedies": ["Licorice (Yashtimadhu)", "Amla", "Neem", "Triphala"],
+      "Lifestyle Recommendations": ["Follow a bland diet", "Avoid spicy and acidic foods", "Manage stress levels"]
+    },
+    "Pneumonia": {
+      "Ayurvedic Remedies": ["Tulsi", "Ginger", "Triphala", "Sitopaladi Churna"],
+      "Lifestyle Recommendations": ["Get plenty of rest", "Stay hydrated", "Practice good respiratory hygiene"]
+    },
+    "Psoriasis": {
+      "Ayurvedic Remedies": ["Neem", "Turmeric", "Aloe Vera", "Triphala"],
+      "Lifestyle Recommendations": ["Avoid triggers like stress and certain foods", "Keep skin moisturized", "Practice stress-relieving techniques"]
+    },
+    "Tuberculosis": {
+      "Ayurvedic Remedies": ["Tulsi", "Neem", "Ashwagandha", "Triphala"],
+      "Lifestyle Recommendations": ["Follow a nutritious diet", "Get plenty of rest", "Practice good respiratory hygiene"]
+    },
+    "Typhoid": {
+      "Ayurvedic Remedies": ["Giloy", "Neem", "Tulsi", "Ginger"],
+      "Lifestyle Recommendations": ["Follow a bland diet", "Stay hydrated", "Get plenty of rest"]
+    },
+    "Urinary Tract Infection": {
+      "Ayurvedic Remedies": ["Gokshura", "Neem", "Cranberry", "Triphala"],
+      "Lifestyle Recommendations": ["Stay hydrated", "Practice good hygiene", "Urinate after intercourse"]
+    },
+    "Varicose Veins": {
+      "Ayurvedic Remedies": ["Gotu Kola", "Triphala", "Horse Chestnut", "Ginger"],
+      "Lifestyle Recommendations": ["Avoid standing or sitting for long periods", "Elevate legs when resting", "Exercise regularly"]
+    }
+}
+  
